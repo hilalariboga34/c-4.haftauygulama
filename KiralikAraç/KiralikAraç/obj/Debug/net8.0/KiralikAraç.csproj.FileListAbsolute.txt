@@ -1,0 +1,14 @@
+C:\Users\HİLAL ARIBOĞA\Source\Repos\KiralikAraç\KiralikAraç\bin\Debug\net8.0\KiralikAraç.exe
+C:\Users\HİLAL ARIBOĞA\Source\Repos\KiralikAraç\KiralikAraç\bin\Debug\net8.0\KiralikAraç.deps.json
+C:\Users\HİLAL ARIBOĞA\Source\Repos\KiralikAraç\KiralikAraç\bin\Debug\net8.0\KiralikAraç.runtimeconfig.json
+C:\Users\HİLAL ARIBOĞA\Source\Repos\KiralikAraç\KiralikAraç\bin\Debug\net8.0\KiralikAraç.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\KiralikAraç\KiralikAraç\bin\Debug\net8.0\KiralikAraç.pdb
+C:\Users\HİLAL ARIBOĞA\Source\Repos\KiralikAraç\KiralikAraç\obj\Debug\net8.0\KiralikAraç.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HİLAL ARIBOĞA\Source\Repos\KiralikAraç\KiralikAraç\obj\Debug\net8.0\KiralikAraç.AssemblyInfoInputs.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\KiralikAraç\KiralikAraç\obj\Debug\net8.0\KiralikAraç.AssemblyInfo.cs
+C:\Users\HİLAL ARIBOĞA\Source\Repos\KiralikAraç\KiralikAraç\obj\Debug\net8.0\KiralikAraç.csproj.CoreCompileInputs.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\KiralikAraç\KiralikAraç\obj\Debug\net8.0\KiralikAraç.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\KiralikAraç\KiralikAraç\obj\Debug\net8.0\refint\KiralikAraç.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\KiralikAraç\KiralikAraç\obj\Debug\net8.0\KiralikAraç.pdb
+C:\Users\HİLAL ARIBOĞA\Source\Repos\KiralikAraç\KiralikAraç\obj\Debug\net8.0\KiralikAraç.genruntimeconfig.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\KiralikAraç\KiralikAraç\obj\Debug\net8.0\ref\KiralikAraç.dll

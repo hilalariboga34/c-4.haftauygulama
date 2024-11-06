@@ -1,0 +1,14 @@
+C:\Users\HİLAL ARIBOĞA\Source\Repos\BankaHesabi\BankaHesabi\obj\Debug\net8.0\BankaHesabi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HİLAL ARIBOĞA\Source\Repos\BankaHesabi\BankaHesabi\obj\Debug\net8.0\BankaHesabi.AssemblyInfoInputs.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\BankaHesabi\BankaHesabi\obj\Debug\net8.0\BankaHesabi.AssemblyInfo.cs
+C:\Users\HİLAL ARIBOĞA\Source\Repos\BankaHesabi\BankaHesabi\obj\Debug\net8.0\BankaHesabi.csproj.CoreCompileInputs.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\BankaHesabi\BankaHesabi\bin\Debug\net8.0\BankaHesabi.exe
+C:\Users\HİLAL ARIBOĞA\Source\Repos\BankaHesabi\BankaHesabi\bin\Debug\net8.0\BankaHesabi.deps.json
+C:\Users\HİLAL ARIBOĞA\Source\Repos\BankaHesabi\BankaHesabi\bin\Debug\net8.0\BankaHesabi.runtimeconfig.json
+C:\Users\HİLAL ARIBOĞA\Source\Repos\BankaHesabi\BankaHesabi\bin\Debug\net8.0\BankaHesabi.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\BankaHesabi\BankaHesabi\bin\Debug\net8.0\BankaHesabi.pdb
+C:\Users\HİLAL ARIBOĞA\Source\Repos\BankaHesabi\BankaHesabi\obj\Debug\net8.0\BankaHesabi.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\BankaHesabi\BankaHesabi\obj\Debug\net8.0\refint\BankaHesabi.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\BankaHesabi\BankaHesabi\obj\Debug\net8.0\BankaHesabi.pdb
+C:\Users\HİLAL ARIBOĞA\Source\Repos\BankaHesabi\BankaHesabi\obj\Debug\net8.0\BankaHesabi.genruntimeconfig.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\BankaHesabi\BankaHesabi\obj\Debug\net8.0\ref\BankaHesabi.dll

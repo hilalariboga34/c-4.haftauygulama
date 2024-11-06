@@ -1,0 +1,14 @@
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kitap\Kitap\bin\Debug\net8.0\Kitap.exe
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kitap\Kitap\bin\Debug\net8.0\Kitap.deps.json
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kitap\Kitap\bin\Debug\net8.0\Kitap.runtimeconfig.json
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kitap\Kitap\bin\Debug\net8.0\Kitap.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kitap\Kitap\bin\Debug\net8.0\Kitap.pdb
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kitap\Kitap\obj\Debug\net8.0\Kitap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kitap\Kitap\obj\Debug\net8.0\Kitap.AssemblyInfoInputs.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kitap\Kitap\obj\Debug\net8.0\Kitap.AssemblyInfo.cs
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kitap\Kitap\obj\Debug\net8.0\Kitap.csproj.CoreCompileInputs.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kitap\Kitap\obj\Debug\net8.0\Kitap.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kitap\Kitap\obj\Debug\net8.0\refint\Kitap.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kitap\Kitap\obj\Debug\net8.0\Kitap.pdb
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kitap\Kitap\obj\Debug\net8.0\Kitap.genruntimeconfig.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kitap\Kitap\obj\Debug\net8.0\ref\Kitap.dll

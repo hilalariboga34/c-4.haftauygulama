@@ -1,0 +1,14 @@
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kisi\Kisi\bin\Debug\net8.0\Kisi.exe
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kisi\Kisi\bin\Debug\net8.0\Kisi.deps.json
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kisi\Kisi\bin\Debug\net8.0\Kisi.runtimeconfig.json
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kisi\Kisi\bin\Debug\net8.0\Kisi.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kisi\Kisi\bin\Debug\net8.0\Kisi.pdb
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kisi\Kisi\obj\Debug\net8.0\Kisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kisi\Kisi\obj\Debug\net8.0\Kisi.AssemblyInfoInputs.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kisi\Kisi\obj\Debug\net8.0\Kisi.AssemblyInfo.cs
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kisi\Kisi\obj\Debug\net8.0\Kisi.csproj.CoreCompileInputs.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kisi\Kisi\obj\Debug\net8.0\Kisi.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kisi\Kisi\obj\Debug\net8.0\refint\Kisi.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kisi\Kisi\obj\Debug\net8.0\Kisi.pdb
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kisi\Kisi\obj\Debug\net8.0\Kisi.genruntimeconfig.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Kisi\Kisi\obj\Debug\net8.0\ref\Kisi.dll
